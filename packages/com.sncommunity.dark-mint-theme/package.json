@@ -7,7 +7,7 @@
     "directory": "packages/com.sncommunity.dark-mint-theme"
   },
   "description": "A dark mint theme for Standard Notes.",
-  "author": "Passkeys",
+  "author": "K Colfer",
   "license": "GPL-3.0",
   "main": "dist/theme.css",
   "sn": {
